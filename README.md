@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    <b>探寻技术底层逻辑 · 追求极简与高效架构</b>
+    <b>Exploring underlying technical logic · Pursuing minimalist and highly efficient architecture</b>
   </p>
 
   <!-- Social Media and Contact Information Badge -->
